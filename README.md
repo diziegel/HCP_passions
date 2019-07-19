@@ -10,7 +10,7 @@ Downloaded files can be found on the following location, and a description of fi
 netid@quest:/projects/b1090/Users/diane/projects/hcp1200
 
 ## 1. Example subject - full 3T data 
-<br> I downloaded one full 3T MRI dataset for one subject. This contains all preprocessed (and unpreprocessed is being added) for T1, resting and diffusion data, as well as task-based fMRI, which consists of emotion, gambling, language, motor, relational, social, and working memory, tasks. <br>
+<br> I downloaded one full 3T MRI dataset for one subject. This contains all preprocessed and unpreprocessed structural (t1 and t2), resting and diffusion data, as well as task-based fMRI, which consists of emotion, gambling, language, motor, relational, social, and working memory, tasks. <br>
 
 This data can be found here: netid@quest:/projects/b1090/Users/diane/projects/hcp1200/example_subject
 
