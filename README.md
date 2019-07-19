@@ -1,7 +1,7 @@
 # HCP-passions
 <br> Working documentation for our HCP project. 
 
-We focus on the HCP 1200 release, which "includes high-resolution 3T MR scans from young healthy adult twins and non-twin siblings (ages 22-35) using four imaging modalities: structural images (T1w and T2w), resting-state fMRI (rfMRI), task-fMRI (tfMRI), and high angular resolution diffusion imaging (dMRI). Behavioral and other individual subject measure data (both NIH Toolbox and non-Toolbox measures) is available on all subjects. MEG data and 7T MR data is available for a subset of subjects (twin pairs). The Open Access Dataset includes imaging data and most behavioral data. To protect subject privacy, some of the data (e.g., which subjects are twins) are part of a Restricted Access dataset."<br>
+We focus on the HCP 1200 release, which includes high-resolution 3T MR scans from young healthy adult twins and non-twin siblings (ages 22-35) using four imaging modalities: structural images (T1w and T2w), resting-state fMRI (rfMRI), task-fMRI (tfMRI), and high angular resolution diffusion imaging (dMRI). Behavioral and other individual subject measure data (both NIH Toolbox and non-Toolbox measures) is available on all subjects. MEG data and 7T MR data is available for a subset of subjects (twin pairs). The Open Access Dataset includes imaging data and most behavioral data. To protect subject privacy, some of the data (e.g., which subjects are twins) are part of a Restricted Access dataset.<br>
 
 At the time of download, the dataset was last updated on April, 2018. <br>
 
