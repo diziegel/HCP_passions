@@ -1,4 +1,4 @@
-# HCP-passions
+# HCP_passions
 <br> Working documentation for our HCP project. 
 
 ## Overview
