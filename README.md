@@ -26,5 +26,17 @@ Location: netid@quest:/projects/b1090/Users/diane/projects/hcp1200/t1
 Location: netid@quest:/projects/b1090/Users/diane/projects/hcp1200/t1
 
 
+## 4. All emotion task fMRI data
+<br> Preprocessed emotion task fMRI files for all available subjects with such data.
+
+Location: netid@quest:/projects/b1090/Users/diane/projects/hcp1200/emotion
+
+## 5. All language task fMRI data
+<br> Preprocessed language task fMRI files for all available subjects with such data.
+
+Location: netid@quest:/projects/b1090/Users/diane/projects/hcp1200/language
+
+
+
 
 
